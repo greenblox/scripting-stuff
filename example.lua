@@ -1,4 +1,6 @@
 -- moved from pastebin to github cuz the syntax highlighting is hot here (https://pastebin.com/frf0GYdp)
+-- discord: greenblocks#9545
+-- please ignore the inconsistency for spacing at the beginning of comments, thanks!
 --~~Submitted for HD application (primary use) and is also~~ being used to show what I can be capable of relating to scripting:
 --Intended to be used as something that shows that I know what the code is and how it works.
 
