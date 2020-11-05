@@ -212,5 +212,8 @@ Lakeside City, a game that is in WIP (used in these code examples): https://www.
 A commission I completed, basically just a clickdetector morph system: https://www.roblox.com/games/5806019116/Badges-Test
 Another commission where the user scammed me, obby checkpoint system: https://www.roblox.com/games/5806231736/Checkpoints
 
+Portfolio - https://devforum.roblox.com/t/closed-temporarily-scripting-greeenblox/822409
+
+PLEASE DO NOT USE THE BELOW AS IT NO LONGER IS BEING WORKED ON!
 And then a website that hosts more work: https://portfolio.steveraft.repl.co/ Not sure if the website is allowed to be used as work since it's external, but hopefully everything before was enough!
 --]]
