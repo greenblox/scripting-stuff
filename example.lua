@@ -1,3 +1,4 @@
+-- moved from pastebin to github cuz the syntax highlighting is hot here (https://pastebin.com/frf0GYdp)
 --~~Submitted for HD application (primary use) and is also~~ being used to show what I can be capable of relating to scripting:
 --Intended to be used as something that shows that I know what the code is and how it works.
 
